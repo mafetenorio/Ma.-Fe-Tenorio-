@@ -1,0 +1,1 @@
+The Fitness Class Reservation System is in place to simplify and streamline the booking of fitness classes for both clients and staff. It is primarily designed to help people find, reserve, and manage their spots in available fitness classes so that they can participate in sessions that best fit their schedules and fitness goals.
